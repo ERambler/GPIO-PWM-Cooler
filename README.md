@@ -8,3 +8,6 @@ Service for control cooler by GPIO PWM on RaspberryPi BananaPi OrangePi
 TODO: 
 add /etc/gpio_pwn_cooler.conf 
 generate deb package
+
+
+Thanks and donate PayPal to erambler@yandex.ru
