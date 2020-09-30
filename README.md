@@ -10,4 +10,4 @@ add /etc/gpio_pwn_cooler.conf
 generate deb package
 
 
-Thanks and donate PayPal to erambler@yandex.ru
+Thanks for your donate PayPal to erambler@yandex.ru
